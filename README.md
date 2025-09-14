@@ -9,9 +9,9 @@ Full-Stack developer committed to creating seamless digital experiences with a c
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lonewolfcoder101&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)     ![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/user-attachments/assets/6025ff66-aa73-41d7-bb62-1ea9571244fa)
 
-![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/user-attachments/assets/6025ff66-aa73-41d7-bb62-1ea9571244fa)
+
 ---
 
 
