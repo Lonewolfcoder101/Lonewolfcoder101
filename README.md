@@ -11,8 +11,7 @@ Full-Stack developer committed to creating seamless digital experiences with a c
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=Lonewolfcoder101&icon=2&color=2)](https://visitcount.itsvg.in)
 ![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/user-attachments/assets/6025ff66-aa73-41d7-bb62-1ea9571244fa)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
